@@ -27,6 +27,7 @@ public class C_EnumTest {
     }
 }
 ```
+Source: https://stackoverflow.com/questions/2836286/enums-use-in-switch-case
 
 ## JUnit
 
