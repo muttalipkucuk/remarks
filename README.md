@@ -1,9 +1,10 @@
 # Remarks
 
-| Tool                           | Command   |
-| ----------------------------- |:---------:|
-| [JUnit](#junit)               |           |
-| [...](#...)                   | `...`     |
+| Tool                          |
+| ----------------------------- |
+| [Java](#Java)                 |
+| [JUnit](#junit)               |
+| [...](#...)                   |
 
 
 ## Java
@@ -28,6 +29,13 @@ public class C_EnumTest {
 }
 ```
 Source: https://stackoverflow.com/questions/2836286/enums-use-in-switch-case
+
+# Serialization and Deserialization
+
+    --- serialization -->
+<OBJECT>                   <STREAM>
+    <-- deserialization ---
+    
 
 ## JUnit
 
