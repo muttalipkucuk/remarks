@@ -32,9 +32,9 @@ Source: https://stackoverflow.com/questions/2836286/enums-use-in-switch-case
 
 # Serialization and Deserialization
 
-    --- serialization -->
+    === serialization ==>
 <OBJECT>                   <STREAM>
-    <-- deserialization ---
+    <== deserialization ===
     
 
 ## JUnit
