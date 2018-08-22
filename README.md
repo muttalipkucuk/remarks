@@ -4,6 +4,7 @@
 | ----------------------------- |
 | [Java](#Java)                 |
 | [JUnit](#junit)               |
+| [Kubernetes](#Kubernetes)     |
 | [...](#...)                   |
 
 
@@ -43,3 +44,8 @@ OBJECT..................STREAM
 ## JUnit
 
 In JUnit 5, the tags `@BeforeEach` and `@BeforeAll` are the equivalents of `@Before` and `@BeforeClass` in JUnit 4.
+
+
+## Kubernetes
+
+Creating a secret manually: https://kubernetes.io/docs/concepts/configuration/secret/
