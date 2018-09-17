@@ -2,11 +2,16 @@
 
 | Tool                          |
 | ----------------------------- |
+| [IntelliJ](#IntelliJ)         |
 | [Java](#Java)                 |
 | [JUnit](#junit)               |
 | [Kubernetes](#Kubernetes)     |
 | [...](#...)                   |
 
+## IntelliJ
+# Shortcuts
+Code → Optimize Imports...
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>O</kbd>
 
 ## Java
 # Enum in switch statement
