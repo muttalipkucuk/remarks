@@ -2,12 +2,26 @@
 
 | Tool                          |
 | ----------------------------- |
+| [Git](#Git)                   |
 | [IntelliJ](#IntelliJ)         |
 | [Java](#Java)                 |
 | [JUnit](#junit)               |
 | [Kubernetes](#Kubernetes)     |
 | [Maven](#Maven)               |
 | [...](#...)                   |
+
+# Git
+
+## Commit message after merge
+
+1. press "i"
+2. write your merge message
+3. press "esc"
+4. write ":wq"
+5. then press enter
+
+Source: https://stackoverflow.com/questions/19085807/please-enter-a-commit-message-to-explain-why-this-merge-is-necessary-especially
+
 
 # IntelliJ
 ## Shortcuts
