@@ -8,15 +8,15 @@
 | [Kubernetes](#Kubernetes)     |
 | [...](#...)                   |
 
-## IntelliJ
-# Shortcuts
+# IntelliJ
+## Shortcuts
 Code → Optimize Imports...
 
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>O</kbd>
 
 
-## Java
-# Enum in switch statement
+# Java
+## Enum in switch statement
 
 ```java
 public class C_EnumTest {
@@ -38,7 +38,7 @@ public class C_EnumTest {
 ```
 Source: https://stackoverflow.com/questions/2836286/enums-use-in-switch-case
 
-# Serialization and Deserialization
+## Serialization and Deserialization
 
 -------- serialization ----->
 
@@ -48,11 +48,11 @@ OBJECT..................STREAM
 
     
 
-## JUnit
+# JUnit
 
 In JUnit 5, the tags `@BeforeEach` and `@BeforeAll` are the equivalents of `@Before` and `@BeforeClass` in JUnit 4.
 
 
-## Kubernetes
+# Kubernetes
 
 Creating a secret manually: https://kubernetes.io/docs/concepts/configuration/secret/
