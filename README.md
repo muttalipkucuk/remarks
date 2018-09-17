@@ -6,6 +6,7 @@
 | [Java](#Java)                 |
 | [JUnit](#junit)               |
 | [Kubernetes](#Kubernetes)     |
+| [Maven](#Maven)               |
 | [...](#...)                   |
 
 # IntelliJ
@@ -48,7 +49,7 @@ OBJECT..................STREAM
 
     
 
-# JUnit
+## JUnit
 
 In JUnit 5, the tags `@BeforeEach` and `@BeforeAll` are the equivalents of `@Before` and `@BeforeClass` in JUnit 4.
 
@@ -56,3 +57,15 @@ In JUnit 5, the tags `@BeforeEach` and `@BeforeAll` are the equivalents of `@Bef
 # Kubernetes
 
 Creating a secret manually: https://kubernetes.io/docs/concepts/configuration/secret/
+
+
+# Maven
+
+## Maven CLI Options Reference
+
+![alt text](https://i.stack.imgur.com/wqati.png "Maven CLI Options Reference")
+
+Source: http://maven.apache.org/ref/3.1.0/maven-embedder/cli.html
+
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
