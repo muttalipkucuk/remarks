@@ -1,7 +1,3 @@
-
-
-
-
 # Remarks
 
 | Tool                          |
