@@ -22,6 +22,10 @@
 
 Source: https://stackoverflow.com/questions/19085807/please-enter-a-commit-message-to-explain-why-this-merge-is-necessary-especially
 
+## Add gif to Github Profile
+
+Source: https://gist.github.com/remarkablemark/feff40b0a522f0c41c4eff0b77ea1d47
+
 
 # IntelliJ
 ## Shortcuts
